@@ -1,0 +1,75 @@
+about:
+  description: Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+  license: Apache-2.0
+  homepage: https://dagger.io
+  head: f4082d7
+  archived: false
+  latestVersion: sdk/rust/v0.21.9
+  collectedAt: 2026-09-01T04:53:44Z
+timeline:
+  created: 2019-11-20
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-26
+popularity:
+  star: 16219
+  watcher: 232
+  fork: 913
+  release: 951
+  contributor: 306
+  pullRequest: 2068
+  issue: 3707
+language:
+  Go: 15163561
+  C#: 1226771
+  Python: 319502
+  TypeScript: 292241
+  Java: 291647
+  Elixir: 224730
+  PHP: 206903
+  Rust: 203284
+  TLA: 108211
+  HTML: 92497
+  Go Template: 53274
+  Groovy: 48969
+  C: 28162
+  Shell: 24599
+  PowerShell: 16192
+  CSS: 6569
+  JavaScript: 2435
+  Dockerfile: 2169
+  Assembly: 1691
+  MDX: 145
+totalLine: 18313552
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 8
+    mergedPR: 85
+    openPR: 38
+    closedIssue: 17
+    openIssue: 24
+    commit: 261
+  last90d:
+    since: 2026-06-03
+    release: 48
+    mergedPR: 359
+    openPR: 46
+    closedIssue: 63
+    openIssue: 59
+    commit: 1101
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 646
+    openPR: 46
+    closedIssue: 129
+    openIssue: 97
+    commit: 1718
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 1244
+    openPR: 46
+    closedIssue: 290
+    openIssue: 97
+    commit: 2389
