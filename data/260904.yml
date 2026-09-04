@@ -7,7 +7,7 @@ about:
   head: 82ba268
   archived: false
   latestVersion: sdk/rust/v0.21.9
-  collectedAt: 2026-09-04T19:23:22Z
+  collectedAt: 2026-09-04T21:09:46Z
 timeline:
   created: 2019-11-20
   lastCommit: 2026-09-04
@@ -15,10 +15,10 @@ timeline:
 popularity:
   star: 16224
   watcher: 232
-  fork: 914
+  fork: 915
   release: 951
   contributor: 306
-  pullRequest: 9321
+  pullRequest: 9322
   issue: 3719
 language:
   Go: 15673721
@@ -47,7 +47,7 @@ recent:
     since: 2026-08-05
     release: 8
     mergedPR: 89
-    openPR: 36
+    openPR: 37
     closedIssue: 23
     openIssue: 26
     commit: 374
@@ -55,7 +55,7 @@ recent:
     since: 2026-07-06
     release: 16
     mergedPR: 242
-    openPR: 45
+    openPR: 46
     closedIssue: 56
     openIssue: 47
     commit: 963
@@ -63,7 +63,7 @@ recent:
     since: 2026-06-06
     release: 40
     mergedPR: 358
-    openPR: 50
+    openPR: 51
     closedIssue: 71
     openIssue: 59
     commit: 1221
@@ -71,7 +71,7 @@ recent:
     since: 2026-03-08
     release: 100
     mergedPR: 661
-    openPR: 51
+    openPR: 52
     closedIssue: 135
     openIssue: 99
     commit: 1838
@@ -79,7 +79,7 @@ recent:
     since: 2025-09-09
     release: 100
     mergedPR: 1253
-    openPR: 51
+    openPR: 52
     closedIssue: 295
     openIssue: 99
     commit: 2509
@@ -87,18 +87,221 @@ recent:
     since: 2024-09-14
     release: 100
     mergedPR: 2710
-    openPR: 51
+    openPR: 52
     closedIssue: 929
     openIssue: 99
     commit: 3855
 total:
   release: 951
   mergedPR: 7247
-  openPR: 51
+  openPR: 52
   closedIssue: 3620
   openIssue: 99
   commit: 12686
 ---
+path: /home/runner/.x-repo/github.com/dagger/dagger
+collectedAt: 2026-09-04T21:10:01Z
+loc:
+  Go:
+    code: 976099
+    comments: 139506
+    blanks: 180405
+    files: 2943
+  Json:
+    code: 313802
+    comments: 0
+    blanks: 11
+    files: 2701
+  Html:
+    code: 103526
+    comments: 161
+    blanks: 19929
+    files: 226
+  Python:
+    code: 38410
+    comments: 985
+    blanks: 6040
+    files: 761
+  CSharp:
+    code: 31262
+    comments: 159
+    blanks: 384
+    files: 39
+  TypeScript:
+    code: 31188
+    comments: 9960
+    blanks: 6419
+    files: 850
+  Xml:
+    code: 30451
+    comments: 183
+    blanks: 1177
+    files: 235
+  Php:
+    code: 29130
+    comments: 9587
+    blanks: 8071
+    files: 1168
+  Elixir:
+    code: 23938
+    comments: 236
+    blanks: 4125
+    files: 288
+  Rust:
+    code: 20052
+    comments: 89
+    blanks: 953
+    files: 63
+  Java:
+    code: 14012
+    comments: 944
+    blanks: 2215
+    files: 431
+  Yaml:
+    code: 4638
+    comments: 548
+    blanks: 215
+    files: 186
+  Toml:
+    code: 2653
+    comments: 1041
+    blanks: 624
+    files: 130
+  Tsx:
+    code: 2105
+    comments: 129
+    blanks: 174
+    files: 47
+  Sass:
+    code: 1935
+    comments: 226
+    blanks: 377
+    files: 9
+  Protobuf:
+    code: 1264
+    comments: 317
+    blanks: 307
+    files: 23
+  JavaScript:
+    code: 1158
+    comments: 241
+    blanks: 109
+    files: 38
+  Sh:
+    code: 1121
+    comments: 188
+    blanks: 157
+    files: 29
+  Groovy:
+    code: 1115
+    comments: 197
+    blanks: 122
+    files: 23
+  Css:
+    code: 996
+    comments: 58
+    blanks: 195
+    files: 24
+  Graphql:
+    code: 913
+    comments: 6
+    blanks: 44
+    files: 19
+  ForgeConfig:
+    code: 710
+    comments: 0
+    blanks: 0
+    files: 25
+  C:
+    code: 535
+    comments: 86
+    blanks: 127
+    files: 2
+  Svg:
+    code: 382
+    comments: 5
+    blanks: 5
+    files: 19
+  PowerShell:
+    code: 366
+    comments: 43
+    blanks: 64
+    files: 1
+  Handlebars:
+    code: 240
+    comments: 8
+    blanks: 8
+    files: 10
+  CHeader:
+    code: 202
+    comments: 29
+    blanks: 27
+    files: 2
+  Batch:
+    code: 169
+    comments: 0
+    blanks: 36
+    files: 1
+  Bash:
+    code: 117
+    comments: 37
+    blanks: 37
+    files: 5
+  AssemblyGAS:
+    code: 100
+    comments: 8
+    blanks: 6
+    files: 11
+  Sql:
+    code: 86
+    comments: 0
+    blanks: 12
+    files: 1
+  ReStructuredText:
+    code: 83
+    comments: 0
+    blanks: 47
+    files: 5
+  MsBuild:
+    code: 71
+    comments: 0
+    blanks: 18
+    files: 4
+  Pan:
+    code: 59
+    comments: 0
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 53
+    comments: 3
+    blanks: 15
+    files: 8
+  VisualStudioSolution:
+    code: 39
+    comments: 0
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 23
+    comments: 11
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 59701
+    blanks: 43450
+    files: 973
+  Text:
+    code: 0
+    comments: 52
+    blanks: 0
+    files: 30
+total:
+  code: 1634867
+  comments: 227664
+  blanks: 276959
+  files: 11333
 ---
 date: "2026-08-24"
 repo:
