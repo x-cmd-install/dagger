@@ -5,7 +5,7 @@ about:
   head: b1449dc
   archived: false
   latestVersion: "sdk/rust/v0.21.9"
-  collectedAt: 2026-09-08T01:50:49Z
+  collectedAt: 2026-09-08T04:42:14Z
 timeline:
   created: 2019-11-20
   lastCommit: 2026-09-05
@@ -98,7 +98,7 @@ total:
   commit: 12713
 ---
 path: /home/runner/.x-repo/github.com/dagger/dagger
-collectedAt: 2026-09-08T01:51:16Z
+collectedAt: 2026-09-08T04:42:42Z
 loc:
   Go:
     code: 978874
