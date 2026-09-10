@@ -2,12 +2,12 @@ about:
   description: "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
   license: Apache-2.0
   homepage: https://dagger.io
-  head: adf3da8
+  head: b2d75d5
   archived: false
   latestVersion: "sdk/rust/v0.21.9"
   latestRelease: "sdk/rust/v0.21.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:51:47Z
+  collectedAt: 2026-09-10T16:25:29Z
 timeline:
   created: 2019-11-20
   lastCommit: 2026-09-10
@@ -15,20 +15,20 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 16241
+  star: 16245
   watcher: 233
   fork: 919
   release: 951
   contributor: 306
-  pullRequest: 9362
+  pullRequest: 9363
   issue: 3728
 language:
-  Go: 15958342
+  Go: 16006683
   C#: 1226771
   Python: 319512
   TypeScript: 292241
   Java: 291647
-  Elixir: 224740
+  Elixir: 225519
   PHP: 206903
   Rust: 203311
   TLA: 125659
@@ -43,84 +43,84 @@ language:
   Dockerfile: 2169
   Assembly: 1691
   MDX: 143
-totalBytes: 19125800
+totalBytes: 19174920
 recent:
   last30d:
     since: 2026-08-11
     release: 8
-    mergedPR: 96
-    openPR: 38
-    closedIssue: 27
-    openIssue: 27
-    commit: 414
+    mergedPR: 101
+    openPR: 34
+    closedIssue: 28
+    openIssue: 26
+    commit: 430
   last60d:
     since: 2026-07-12
     release: 16
-    mergedPR: 247
-    openPR: 43
-    closedIssue: 62
-    openIssue: 44
-    commit: 980
+    mergedPR: 252
+    openPR: 39
+    closedIssue: 63
+    openIssue: 43
+    commit: 996
   last90d:
     since: 2026-06-12
     release: 24
-    mergedPR: 337
-    openPR: 46
-    closedIssue: 73
-    openIssue: 57
-    commit: 1276
+    mergedPR: 342
+    openPR: 42
+    closedIssue: 74
+    openIssue: 56
+    commit: 1292
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 670
-    openPR: 47
-    closedIssue: 137
-    openIssue: 101
-    commit: 1937
+    mergedPR: 675
+    openPR: 43
+    closedIssue: 138
+    openIssue: 100
+    commit: 1953
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 1248
-    openPR: 47
-    closedIssue: 297
-    openIssue: 101
-    commit: 2587
+    mergedPR: 1253
+    openPR: 43
+    closedIssue: 298
+    openIssue: 100
+    commit: 2603
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 2702
-    openPR: 47
-    closedIssue: 913
-    openIssue: 101
-    commit: 3926
+    mergedPR: 2707
+    openPR: 43
+    closedIssue: 914
+    openIssue: 100
+    commit: 3942
 total:
   release: 951
-  mergedPR: 7269
-  openPR: 47
-  closedIssue: 3627
-  openIssue: 101
-  commit: 12792
+  mergedPR: 7274
+  openPR: 43
+  closedIssue: 3628
+  openIssue: 100
+  commit: 12808
 ---
 path: /home/runner/.x-repo/github.com/dagger/dagger
-collectedAt: 2026-09-10T04:52:11Z
+collectedAt: 2026-09-10T16:26:05Z
 loc:
   Go:
-    code: 983930
-    comments: 139471
-    blanks: 180952
-    files: 2961
+    code: 985359
+    comments: 139377
+    blanks: 180992
+    files: 2973
   Json:
-    code: 313853
+    code: 313772
     comments: 0
     blanks: 11
-    files: 2704
+    files: 2703
   Html:
     code: 103814
     comments: 161
     blanks: 19923
     files: 226
   Python:
-    code: 38356
+    code: 38361
     comments: 985
     blanks: 6029
     files: 761
@@ -145,9 +145,9 @@ loc:
     blanks: 8076
     files: 1168
   Elixir:
-    code: 24026
-    comments: 236
-    blanks: 4137
+    code: 24047
+    comments: 238
+    blanks: 4142
     files: 288
   Rust:
     code: 20031
@@ -291,7 +291,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 60155
+    comments: 60156
     blanks: 43650
     files: 975
   Text:
@@ -300,10 +300,10 @@ loc:
     blanks: 0
     files: 30
 total:
-  code: 1642994
-  comments: 228145
-  blanks: 277707
-  files: 11358
+  code: 1644368
+  comments: 228054
+  blanks: 277752
+  files: 11369
 ---
 date: "2026-09-07"
 repo:
