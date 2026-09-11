@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 700,
       "digest": "sha256:f7c0b4ffb3d8f6058dc3b2e17c1485bc4a0ac8cd92add424575b25390f48fbd8",
-      "download_count": 2118,
+      "download_count": 2213,
       "created_at": "2026-08-26T13:45:56Z",
       "updated_at": "2026-08-26T13:45:56Z",
       "browser_download_url": "https://github.com/dagger/dagger/releases/download/v0.21.9/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 22324987,
       "digest": "sha256:2ed6e998d820bfb4800ed5644e1b9586f03078b14243c7fdf3bdd9e0eb0d5bfe",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-08-26T13:45:56Z",
       "updated_at": "2026-08-26T13:45:57Z",
       "browser_download_url": "https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21029513,
       "digest": "sha256:551a4d5432860547bf4f088181cbd0902668289171959de97568ea0f0ecb35ee",
-      "download_count": 195,
+      "download_count": 201,
       "created_at": "2026-08-26T13:45:56Z",
       "updated_at": "2026-08-26T13:45:57Z",
       "browser_download_url": "https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 21945735,
       "digest": "sha256:33eea0b08d6be444bada18e64b2216459100d6070abcb4b5345cee40c9fff982",
-      "download_count": 10042,
+      "download_count": 10624,
       "created_at": "2026-08-26T13:45:56Z",
       "updated_at": "2026-08-26T13:45:58Z",
       "browser_download_url": "https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20174517,
       "digest": "sha256:3bc8334ccde404f66f0a8e29807e4327c7893990c3211691680c5f07f8273f3a",
-      "download_count": 505,
+      "download_count": 508,
       "created_at": "2026-08-26T13:45:56Z",
       "updated_at": "2026-08-26T13:45:56Z",
       "browser_download_url": "https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 22462083,
       "digest": "sha256:4ade22eac31f1d6ea364e1e594e1b67c01a62640249b716ccc172407eecc5a01",
-      "download_count": 95,
+      "download_count": 96,
       "created_at": "2026-08-26T13:45:56Z",
       "updated_at": "2026-08-26T13:45:57Z",
       "browser_download_url": "https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_windows_amd64.zip"
