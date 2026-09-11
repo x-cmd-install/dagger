@@ -14,15 +14,15 @@ x install dagger
 
 ## Code insight
 
-Total: **1,647,295** lines of code across **6736** files in the top 5 languages.
+Total: **1,555,972** lines of code across **7394** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 990,045 | 139,472 | 181,326 | 3007 |
-| Json | 313,772 | 0 | 11 | 2703 |
-| Html | 103,819 | 161 | 19,923 | 226 |
-| Python | 38,370 | 985 | 6,029 | 761 |
+| Go | 995,244 | 139,598 | 181,645 | 3042 |
+| Json | 305,783 | 0 | 11 | 2702 |
+| Python | 38,510 | 985 | 6,036 | 761 |
 | CSharp | 31,262 | 159 | 384 | 39 |
+| TypeScript | 31,205 | 10,015 | 6,413 | 850 |
 
 ## OpenSSF Scorecard
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 951 · **Merged PRs**: 7281 · **Open PRs**: 49 · **Closed issues**: 3628 · **Open issues**: 105 · **Commits**: 12836
+- **Releases**: 951 · **Merged PRs**: 7289 · **Open PRs**: 49 · **Closed issues**: 3629 · **Open issues**: 104 · **Commits**: 12858
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 8 | 104 | 40 | 26 | 31 | 458 |
-| last60d | 2026-07-13 | 16 | 252 | 45 | 55 | 46 | 1024 |
-| 90d | 2026-06-13 | 24 | 349 | 48 | 74 | 61 | 1320 |
-| last180d | 2026-03-15 | 100 | 682 | 49 | 138 | 105 | 1981 |
-| 360d | 2025-09-16 | 100 | 1252 | 49 | 296 | 105 | 2631 |
-| last720d | 2024-09-21 | 100 | 2712 | 49 | 912 | 105 | 3963 |
+| 30d | 2026-08-12 | 8 | 112 | 40 | 27 | 30 | 484 |
+| last60d | 2026-07-13 | 16 | 260 | 45 | 56 | 45 | 1050 |
+| 90d | 2026-06-13 | 24 | 357 | 48 | 75 | 60 | 1346 |
+| last180d | 2026-03-15 | 100 | 690 | 49 | 139 | 104 | 2007 |
+| 360d | 2025-09-16 | 100 | 1260 | 49 | 297 | 104 | 2657 |
+| last720d | 2024-09-21 | 100 | 2720 | 49 | 913 | 104 | 3985 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dagger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:37:09Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:23:10Z._
