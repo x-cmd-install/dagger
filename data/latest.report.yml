@@ -2,15 +2,15 @@ about:
   description: "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
   license: Apache-2.0
   homepage: https://dagger.io
-  head: f4e83a5
+  head: 371244c
   archived: false
   latestVersion: "sdk/rust/v0.21.9"
   latestRelease: "sdk/rust/v0.21.9"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:21:59Z
+  collectedAt: 2026-09-11T04:36:37Z
 timeline:
   created: 2019-11-20
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-08-26
   lastRelease: 2026-08-26
   lastPrerelease: 
@@ -21,9 +21,9 @@ popularity:
   release: 951
   contributor: 306
   pullRequest: 9377
-  issue: 3730
+  issue: 3733
 language:
-  Go: 16113301
+  Go: 16192823
   C#: 1226771
   Python: 319512
   TypeScript: 292324
@@ -43,84 +43,84 @@ language:
   Dockerfile: 2169
   Assembly: 1691
   MDX: 143
-totalBytes: 19281621
+totalBytes: 19361143
 recent:
   last30d:
     since: 2026-08-12
     release: 8
-    mergedPR: 101
-    openPR: 43
+    mergedPR: 104
+    openPR: 40
     closedIssue: 26
-    openIssue: 28
-    commit: 445
+    openIssue: 31
+    commit: 458
   last60d:
     since: 2026-07-13
     release: 16
-    mergedPR: 249
-    openPR: 49
+    mergedPR: 252
+    openPR: 45
     closedIssue: 55
-    openIssue: 43
-    commit: 1011
+    openIssue: 46
+    commit: 1024
   last90d:
     since: 2026-06-13
     release: 24
-    mergedPR: 346
-    openPR: 53
+    mergedPR: 349
+    openPR: 48
     closedIssue: 74
-    openIssue: 58
-    commit: 1307
+    openIssue: 61
+    commit: 1320
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 679
-    openPR: 54
+    mergedPR: 682
+    openPR: 49
     closedIssue: 138
-    openIssue: 102
-    commit: 1968
+    openIssue: 105
+    commit: 1981
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 1249
-    openPR: 54
+    mergedPR: 1252
+    openPR: 49
     closedIssue: 296
-    openIssue: 102
-    commit: 2618
+    openIssue: 105
+    commit: 2631
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 2709
-    openPR: 54
+    mergedPR: 2712
+    openPR: 49
     closedIssue: 912
-    openIssue: 102
-    commit: 3950
+    openIssue: 105
+    commit: 3963
 total:
   release: 951
-  mergedPR: 7278
-  openPR: 54
+  mergedPR: 7281
+  openPR: 49
   closedIssue: 3628
-  openIssue: 102
-  commit: 12823
+  openIssue: 105
+  commit: 12836
 ---
 path: /home/runner/.x-repo/github.com/dagger/dagger
-collectedAt: 2026-09-11T00:22:25Z
+collectedAt: 2026-09-11T04:37:01Z
 loc:
   Go:
-    code: 988033
-    comments: 139427
-    blanks: 181220
-    files: 2991
+    code: 990045
+    comments: 139472
+    blanks: 181326
+    files: 3007
   Json:
     code: 313772
     comments: 0
     blanks: 11
     files: 2703
   Html:
-    code: 103814
+    code: 103819
     comments: 161
     blanks: 19923
     files: 226
   Python:
-    code: 38361
+    code: 38370
     comments: 985
     blanks: 6029
     files: 761
@@ -130,9 +130,9 @@ loc:
     blanks: 384
     files: 39
   TypeScript:
-    code: 31155
-    comments: 9963
-    blanks: 6393
+    code: 31156
+    comments: 9967
+    blanks: 6394
     files: 850
   Xml:
     code: 30451
@@ -140,17 +140,17 @@ loc:
     blanks: 1177
     files: 235
   Php:
-    code: 29172
+    code: 29175
     comments: 9610
     blanks: 8076
     files: 1168
   Elixir:
-    code: 24047
+    code: 24049
     comments: 238
     blanks: 4142
     files: 288
   Rust:
-    code: 20031
+    code: 20036
     comments: 89
     blanks: 953
     files: 63
@@ -300,10 +300,10 @@ loc:
     blanks: 0
     files: 30
 total:
-  code: 1647042
-  comments: 228105
-  blanks: 277980
-  files: 11387
+  code: 1649079
+  comments: 228155
+  blanks: 278087
+  files: 11403
 ---
 date: "2026-09-07"
 repo:
@@ -459,4 +459,4 @@ checks:
       - 'Info:   0 out of   1 npmCommand dependencies pinned'
       - 'Info:   0 out of   1 goCommand dependencies pinned'
 ---
-{"id":377177971,"author":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODUgI1s4We0dz","tag_name":"v0.21.9","target_commitish":"main","name":"v0.21.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-26T13:10:18Z","updated_at":"2026-08-26T13:45:58Z","published_at":"2026-08-26T13:45:58Z","assets":[{"id":530870099,"node_id":"RA_kwDODUgI1s4fpG9T","name":"checksums.txt","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":700,"digest":"sha256:f7c0b4ffb3d8f6058dc3b2e17c1485bc4a0ac8cd92add424575b25390f48fbd8","download_count":2089,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:56Z"},{"id":530870097,"node_id":"RA_kwDODUgI1s4fpG9R","name":"dagger_v0.21.9_darwin_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22324987,"digest":"sha256:2ed6e998d820bfb4800ed5644e1b9586f03078b14243c7fdf3bdd9e0eb0d5bfe","download_count":33,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870101,"node_id":"RA_kwDODUgI1s4fpG9V","name":"dagger_v0.21.9_darwin_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":21029513,"digest":"sha256:551a4d5432860547bf4f088181cbd0902668289171959de97568ea0f0ecb35ee","download_count":195,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870096,"node_id":"RA_kwDODUgI1s4fpG9Q","name":"dagger_v0.21.9_linux_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":21945735,"digest":"sha256:33eea0b08d6be444bada18e64b2216459100d6070abcb4b5345cee40c9fff982","download_count":9984,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:58Z"},{"id":530870098,"node_id":"RA_kwDODUgI1s4fpG9S","name":"dagger_v0.21.9_linux_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20174517,"digest":"sha256:3bc8334ccde404f66f0a8e29807e4327c7893990c3211691680c5f07f8273f3a","download_count":505,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:56Z"},{"id":530870100,"node_id":"RA_kwDODUgI1s4fpG9U","name":"dagger_v0.21.9_linux_armv7.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20478301,"digest":"sha256:d192d8303d6b323da596b0850351857128b653077fc4adf7a7cf53c8cec195c8","download_count":8,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870102,"node_id":"RA_kwDODUgI1s4fpG9W","name":"dagger_v0.21.9_windows_amd64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22462083,"digest":"sha256:4ade22eac31f1d6ea364e1e594e1b67c01a62640249b716ccc172407eecc5a01","download_count":94,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870103,"node_id":"RA_kwDODUgI1s4fpG9X","name":"dagger_v0.21.9_windows_arm64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20363401,"digest":"sha256:59fc291356b956b3339c4155692034ba2f4047e29404d46d2ac12de1627443ef","download_count":8,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"}],"body":"## v0.21.9 - 2026-08-25\n\n### Added\n- Added SSHFS-backed volumes, allowing remote filesystems to be mounted into containers without copying their contents into Dagger's content store by @sipsma in https://github.com/dagger/dagger/pull/13462\n\n### Fixed\n- `Container.withDirectory` and `Directory.withDirectory` no longer restore by @sipsma in https://github.com/dagger/dagger/pull/13848 \\\n  deleted nested files after execs remove and recreate an ancestor\n  directory.\n- Engine client enumeration no longer blocks behind another session's by @sipsma in https://github.com/dagger/dagger/pull/13542 \\\n  initialization or teardown, preventing Cloud keeper heartbeats from stalling\n  and live engines from being suspended.\n- Session teardown now runs in the background after the main client disconnects, by @sipsma in https://github.com/dagger/dagger/pull/13681 \\\n  preventing shutdown responses from timing out while the engine releases\n  session-owned cache results.\n- The engine now bounds retained DAGQL cache metadata independently of disk by @sipsma in https://github.com/dagger/dagger/pull/13846 \\\n  usage by pruning cold persisted results when the structural estimate exceeds\n  its configured limit. This may mitigate metadata growth at scale while\n  preserving active and engine-lifetime cache roots.\n- Registry protocol probes no longer appear as scary errors in progress output by @vito in https://github.com/dagger/dagger/pull/13410 \\\n  when image pulls or publishes succeed, while genuine registry failures remain\n  visible.\n- Registry authentication no longer invalidates downstream container cache reuse across sessions when applied before or after `Container.from` by @sipsma in https://github.com/dagger/dagger/pull/13901\n\n### What to do next?\n- Read the [documentation](https://docs.dagger.io)\n- Join our [Discord server](https://discord.gg/dagger-io)\n- Follow us on [Twitter](https://twitter.com/dagger_io)\n\n","mentions_count":2}
+{"id":377177971,"author":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODUgI1s4We0dz","tag_name":"v0.21.9","target_commitish":"main","name":"v0.21.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-26T13:10:18Z","updated_at":"2026-08-26T13:45:58Z","published_at":"2026-08-26T13:45:58Z","assets":[{"id":530870099,"node_id":"RA_kwDODUgI1s4fpG9T","name":"checksums.txt","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":700,"digest":"sha256:f7c0b4ffb3d8f6058dc3b2e17c1485bc4a0ac8cd92add424575b25390f48fbd8","download_count":2118,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:56Z"},{"id":530870097,"node_id":"RA_kwDODUgI1s4fpG9R","name":"dagger_v0.21.9_darwin_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22324987,"digest":"sha256:2ed6e998d820bfb4800ed5644e1b9586f03078b14243c7fdf3bdd9e0eb0d5bfe","download_count":33,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870101,"node_id":"RA_kwDODUgI1s4fpG9V","name":"dagger_v0.21.9_darwin_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":21029513,"digest":"sha256:551a4d5432860547bf4f088181cbd0902668289171959de97568ea0f0ecb35ee","download_count":195,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870096,"node_id":"RA_kwDODUgI1s4fpG9Q","name":"dagger_v0.21.9_linux_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":21945735,"digest":"sha256:33eea0b08d6be444bada18e64b2216459100d6070abcb4b5345cee40c9fff982","download_count":10042,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:58Z"},{"id":530870098,"node_id":"RA_kwDODUgI1s4fpG9S","name":"dagger_v0.21.9_linux_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20174517,"digest":"sha256:3bc8334ccde404f66f0a8e29807e4327c7893990c3211691680c5f07f8273f3a","download_count":505,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:56Z"},{"id":530870100,"node_id":"RA_kwDODUgI1s4fpG9U","name":"dagger_v0.21.9_linux_armv7.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20478301,"digest":"sha256:d192d8303d6b323da596b0850351857128b653077fc4adf7a7cf53c8cec195c8","download_count":8,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870102,"node_id":"RA_kwDODUgI1s4fpG9W","name":"dagger_v0.21.9_windows_amd64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22462083,"digest":"sha256:4ade22eac31f1d6ea364e1e594e1b67c01a62640249b716ccc172407eecc5a01","download_count":95,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"},{"id":530870103,"node_id":"RA_kwDODUgI1s4fpG9X","name":"dagger_v0.21.9_windows_arm64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20363401,"digest":"sha256:59fc291356b956b3339c4155692034ba2f4047e29404d46d2ac12de1627443ef","download_count":8,"created_at":"2026-08-26T13:45:56Z","updated_at":"2026-08-26T13:45:57Z"}],"body":"## v0.21.9 - 2026-08-25\n\n### Added\n- Added SSHFS-backed volumes, allowing remote filesystems to be mounted into containers without copying their contents into Dagger's content store by @sipsma in https://github.com/dagger/dagger/pull/13462\n\n### Fixed\n- `Container.withDirectory` and `Directory.withDirectory` no longer restore by @sipsma in https://github.com/dagger/dagger/pull/13848 \\\n  deleted nested files after execs remove and recreate an ancestor\n  directory.\n- Engine client enumeration no longer blocks behind another session's by @sipsma in https://github.com/dagger/dagger/pull/13542 \\\n  initialization or teardown, preventing Cloud keeper heartbeats from stalling\n  and live engines from being suspended.\n- Session teardown now runs in the background after the main client disconnects, by @sipsma in https://github.com/dagger/dagger/pull/13681 \\\n  preventing shutdown responses from timing out while the engine releases\n  session-owned cache results.\n- The engine now bounds retained DAGQL cache metadata independently of disk by @sipsma in https://github.com/dagger/dagger/pull/13846 \\\n  usage by pruning cold persisted results when the structural estimate exceeds\n  its configured limit. This may mitigate metadata growth at scale while\n  preserving active and engine-lifetime cache roots.\n- Registry protocol probes no longer appear as scary errors in progress output by @vito in https://github.com/dagger/dagger/pull/13410 \\\n  when image pulls or publishes succeed, while genuine registry failures remain\n  visible.\n- Registry authentication no longer invalidates downstream container cache reuse across sessions when applied before or after `Container.from` by @sipsma in https://github.com/dagger/dagger/pull/13901\n\n### What to do next?\n- Read the [documentation](https://docs.dagger.io)\n- Join our [Discord server](https://discord.gg/dagger-io)\n- Follow us on [Twitter](https://twitter.com/dagger_io)\n\n","mentions_count":2}
