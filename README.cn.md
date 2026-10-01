@@ -14,14 +14,14 @@ x install dagger
 
 ## 代码洞察
 
-合计: **1,722,009** 行代码（覆盖前 5 种语言、共 **8002** 个文件）。
+合计: **1,726,718** 行代码（覆盖前 5 种语言、共 **8010** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,149,124 | 155,331 | 189,714 | 3636 |
+| Go | 1,153,770 | 156,235 | 189,915 | 3644 |
 | Json | 306,006 | 0 | 11 | 2713 |
-| Python | 41,282 | 999 | 6,248 | 762 |
-| TypeScript | 32,960 | 10,957 | 6,820 | 852 |
+| Python | 41,299 | 999 | 6,249 | 762 |
+| TypeScript | 32,964 | 10,965 | 6,821 | 852 |
 | CSharp | 31,306 | 162 | 387 | 39 |
 
 ## OpenSSF Scorecard 评分
@@ -42,41 +42,41 @@ x install dagger
 
 ## 发布
 
-- **最新版本**: `sdk/rust/v0.21.9` (2026-08-26)
-- **最近提交**: 2026-09-30
+- **最新版本**: `sdk/rust/v0.21.10` (2026-09-30)
+- **最近提交**: 2026-10-01
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 16,310 · **Fork**: 932 · **开放 issue**: 3,755 · **贡献者**: 304
+- **Star**: 16,310 · **Fork**: 932 · **开放 issue**: 3,757 · **贡献者**: 304
 
 ## 累计统计
 
-- **发布数**: 951 · **已合并 PR**: 7459 · **开放 PR**: 91 · **已关闭 issue**: 3642 · **开放 issue**: 113 · **提交数**: 14278
+- **发布数**: 959 · **已合并 PR**: 7480 · **开放 PR**: 90 · **已关闭 issue**: 3642 · **开放 issue**: 115 · **提交数**: 14357
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 215 | 87 | 21 | 27 | 1400 |
-| last60d | 2026-08-01 | 8 | 313 | 89 | 45 | 44 | 2030 |
-| 90d | 2026-07-02 | 16 | 455 | 90 | 79 | 61 | 2588 |
-| last180d | 2026-04-03 | 100 | 805 | 91 | 129 | 103 | 3352 |
-| 360d | 2025-10-05 | 100 | 1364 | 91 | 295 | 113 | 3955 |
-| last720d | 2024-10-10 | 100 | 2812 | 91 | 876 | 113 | 5326 |
+| 30d | 2026-09-01 | 8 | 230 | 86 | 16 | 28 | 1458 |
+| last60d | 2026-08-02 | 16 | 334 | 88 | 45 | 46 | 2088 |
+| 90d | 2026-07-03 | 24 | 476 | 89 | 79 | 63 | 2646 |
+| last180d | 2026-04-04 | 100 | 824 | 90 | 129 | 105 | 3410 |
+| 360d | 2025-10-06 | 100 | 1376 | 90 | 292 | 115 | 4013 |
+| last720d | 2024-10-11 | 100 | 2828 | 90 | 873 | 115 | 5400 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/dagger/dagger/releases/download/v0.21.9/checksums.txt) | 700 B | `other` |
-| [dagger_v0.21.9_darwin_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_darwin_amd64.tar.gz) | 21.3 MiB | `native/darwin/x64` |
-| [dagger_v0.21.9_darwin_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_darwin_arm64.tar.gz) | 20.1 MiB | `native/darwin/arm64` |
-| [dagger_v0.21.9_linux_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_linux_amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
-| [dagger_v0.21.9_linux_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_linux_arm64.tar.gz) | 19.2 MiB | `native/linux/arm64` |
-| [dagger_v0.21.9_linux_armv7.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_linux_armv7.tar.gz) | 19.5 MiB | `native/linux/arm` |
-| [dagger_v0.21.9_windows_amd64.zip](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_windows_amd64.zip) | 21.4 MiB | `native/win/x64` |
-| [dagger_v0.21.9_windows_arm64.zip](https://github.com/dagger/dagger/releases/download/v0.21.9/dagger_v0.21.9_windows_arm64.zip) | 19.4 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/dagger/dagger/releases/download/v0.21.10/checksums.txt) | 707 B | `other` |
+| [dagger_v0.21.10_darwin_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_darwin_amd64.tar.gz) | 21.3 MiB | `native/darwin/x64` |
+| [dagger_v0.21.10_darwin_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_darwin_arm64.tar.gz) | 20.1 MiB | `native/darwin/arm64` |
+| [dagger_v0.21.10_linux_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_linux_amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
+| [dagger_v0.21.10_linux_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_linux_arm64.tar.gz) | 19.2 MiB | `native/linux/arm64` |
+| [dagger_v0.21.10_linux_armv7.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_linux_armv7.tar.gz) | 19.5 MiB | `native/linux/arm` |
+| [dagger_v0.21.10_windows_amd64.zip](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_windows_amd64.zip) | 21.4 MiB | `native/win/x64` |
+| [dagger_v0.21.10_windows_arm64.zip](https://github.com/dagger/dagger/releases/download/v0.21.10/dagger_v0.21.10_windows_arm64.zip) | 19.4 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ dagger 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:46:46Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:57:38Z._
