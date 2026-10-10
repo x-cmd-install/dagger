@@ -14,12 +14,12 @@ x install dagger
 
 ## Code insight
 
-Total: **1,772,284** lines of code across **8180** files in the top 5 languages.
+Total: **1,763,949** lines of code across **8106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,197,213 | 162,852 | 193,619 | 3815 |
-| Json | 305,999 | 0 | 11 | 2712 |
+| Go | 1,188,840 | 164,795 | 191,623 | 3738 |
+| Json | 306,058 | 0 | 11 | 2715 |
 | Python | 41,795 | 999 | 6,275 | 762 |
 | TypeScript | 33,132 | 11,182 | 6,884 | 852 |
 | CSharp | 31,306 | 162 | 387 | 39 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `sdk/rust/v0.21.10` (2026-09-30)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-10
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 16,328 · **Forks**: 933 · **Open issues**: 3,763 · **Contributors**: 304
+- **Stars**: 16,334 · **Forks**: 934 · **Open issues**: 3,764 · **Contributors**: 304
 
 ## Totals (cumulative)
 
-- **Releases**: 959 · **Merged PRs**: 7608 · **Open PRs**: 94 · **Closed issues**: 3647 · **Open issues**: 116 · **Commits**: 14925
+- **Releases**: 959 · **Merged PRs**: 7636 · **Open PRs**: 93 · **Closed issues**: 3647 · **Open issues**: 117 · **Commits**: 15084
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 8 | 319 | 87 | 13 | 22 | 1764 |
-| last60d | 2026-08-10 | 16 | 442 | 91 | 46 | 44 | 2546 |
-| 90d | 2026-07-11 | 24 | 587 | 92 | 82 | 59 | 3115 |
-| last180d | 2026-04-12 | 100 | 925 | 94 | 127 | 105 | 3927 |
-| 360d | 2025-10-14 | 100 | 1477 | 94 | 286 | 116 | 4563 |
-| last720d | 2024-10-19 | 100 | 2932 | 94 | 864 | 116 | 5946 |
+| 30d | 2026-09-10 | 8 | 334 | 85 | 13 | 21 | 1920 |
+| last60d | 2026-08-11 | 16 | 462 | 90 | 45 | 45 | 2702 |
+| 90d | 2026-07-12 | 24 | 614 | 91 | 82 | 60 | 3271 |
+| last180d | 2026-04-13 | 100 | 948 | 93 | 126 | 105 | 4083 |
+| 360d | 2025-10-15 | 100 | 1503 | 93 | 284 | 117 | 4719 |
+| last720d | 2024-10-20 | 100 | 2960 | 93 | 864 | 117 | 6103 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dagger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:09:39Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:49:43Z._
