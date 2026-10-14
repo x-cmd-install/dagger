@@ -14,14 +14,14 @@ x install dagger
 
 ## Code insight
 
-Total: **1,768,450** lines of code across **8124** files in the top 5 languages.
+Total: **1,772,330** lines of code across **8143** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,193,245 | 165,535 | 192,019 | 3756 |
+| Go | 1,197,109 | 166,384 | 192,678 | 3775 |
 | Json | 306,058 | 0 | 11 | 2715 |
-| Python | 41,827 | 999 | 6,277 | 762 |
-| TypeScript | 33,151 | 11,190 | 6,889 | 852 |
+| Python | 41,831 | 999 | 6,277 | 762 |
+| TypeScript | 33,152 | 11,194 | 6,890 | 852 |
 | CSharp | 31,306 | 162 | 387 | 39 |
 
 ## OpenSSF Scorecard
@@ -30,8 +30,8 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `sdk/rust/v0.21.10` (2026-09-30)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-14
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 16,334 · **Forks**: 935 · **Open issues**: 3,765 · **Contributors**: 304
+- **Stars**: 16,337 · **Forks**: 935 · **Open issues**: 3,766 · **Contributors**: 304
 
 ## Totals (cumulative)
 
-- **Releases**: 959 · **Merged PRs**: 7641 · **Open PRs**: 86 · **Closed issues**: 3647 · **Open issues**: 118 · **Commits**: 15132
+- **Releases**: 959 · **Merged PRs**: 7667 · **Open PRs**: 90 · **Closed issues**: 3648 · **Open issues**: 118 · **Commits**: 15205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 8 | 325 | 78 | 13 | 18 | 1542 |
-| last60d | 2026-08-14 | 16 | 451 | 82 | 40 | 46 | 2659 |
-| 90d | 2026-07-15 | 24 | 599 | 84 | 66 | 60 | 3186 |
-| last180d | 2026-04-16 | 100 | 943 | 86 | 124 | 104 | 4109 |
-| 360d | 2025-10-18 | 100 | 1504 | 86 | 281 | 118 | 4739 |
-| last720d | 2024-10-23 | 100 | 2948 | 86 | 855 | 118 | 6142 |
+| 30d | 2026-09-14 | 8 | 343 | 82 | 13 | 18 | 1593 |
+| last60d | 2026-08-15 | 16 | 477 | 86 | 41 | 46 | 2710 |
+| 90d | 2026-07-16 | 24 | 620 | 88 | 66 | 60 | 3237 |
+| last180d | 2026-04-17 | 100 | 964 | 90 | 124 | 102 | 4160 |
+| 360d | 2025-10-19 | 100 | 1530 | 90 | 282 | 118 | 4790 |
+| last720d | 2024-10-24 | 100 | 2967 | 90 | 854 | 118 | 6205 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dagger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:59:21Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:52:31Z._
