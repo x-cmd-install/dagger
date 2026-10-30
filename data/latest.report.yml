@@ -2,28 +2,28 @@ about:
   description: "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud"
   license: Apache-2.0
   homepage: https://dagger.io
-  head: fb7fd04
+  head: 2b5e3a9
   archived: false
   latestVersion: "sdk/rust/v0.21.11"
   latestRelease: "sdk/rust/v0.21.11"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:44:00Z
+  collectedAt: 2026-10-30T05:44:36Z
 timeline:
   created: 2019-11-20
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-21
   lastRelease: 2026-10-21
   lastPrerelease: 
 popularity:
-  star: 16540
-  watcher: 226
+  star: 16546
+  watcher: 225
   fork: 942
   release: 967
-  contributor: 307
-  pullRequest: 10141
-  issue: 3788
+  contributor: 308
+  pullRequest: 10170
+  issue: 3789
 language:
-  Go: 29041524
+  Go: 29136955
   C#: 1228805
   HTML: 489532
   Python: 333970
@@ -32,7 +32,7 @@ language:
   Java: 299532
   PHP: 240547
   Elixir: 226681
-  Rust: 214994
+  Rust: 215031
   Go Template: 71822
   Groovy: 48963
   C: 41645
@@ -43,86 +43,86 @@ language:
   JavaScript: 2435
   Assembly: 1691
   MDX: 143
-totalBytes: 32931666
+totalBytes: 33027134
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 16
-    mergedPR: 321
-    openPR: 107
-    closedIssue: 7
-    openIssue: 27
-    commit: 1257
+    mergedPR: 327
+    openPR: 104
+    closedIssue: 19
+    openIssue: 15
+    commit: 1338
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 16
-    mergedPR: 571
-    openPR: 120
-    closedIssue: 33
-    openIssue: 49
-    commit: 2927
+    mergedPR: 600
+    openPR: 118
+    closedIssue: 46
+    openIssue: 37
+    commit: 3008
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 24
-    mergedPR: 672
-    openPR: 121
-    closedIssue: 57
-    openIssue: 67
-    commit: 3539
+    mergedPR: 700
+    openPR: 119
+    closedIssue: 70
+    openIssue: 54
+    commit: 3620
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
-    mergedPR: 1077
-    openPR: 123
-    closedIssue: 123
-    openIssue: 112
-    commit: 4660
+    mergedPR: 1107
+    openPR: 121
+    closedIssue: 136
+    openIssue: 100
+    commit: 4741
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 1612
-    openPR: 123
-    closedIssue: 269
-    openIssue: 134
-    commit: 5303
+    mergedPR: 1639
+    openPR: 121
+    closedIssue: 281
+    openIssue: 122
+    commit: 5384
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 3055
-    openPR: 123
-    closedIssue: 828
-    openIssue: 134
-    commit: 6693
+    mergedPR: 3084
+    openPR: 121
+    closedIssue: 841
+    openIssue: 122
+    commit: 6761
 total:
   release: 967
-  mergedPR: 7816
-  openPR: 123
-  closedIssue: 3654
-  openIssue: 134
-  commit: 15807
+  mergedPR: 7846
+  openPR: 121
+  closedIssue: 3667
+  openIssue: 122
+  commit: 15888
 ---
 path: /home/runner/.x-repo/github.com/dagger/dagger
-collectedAt: 2026-10-29T05:44:28Z
+collectedAt: 2026-10-30T05:45:05Z
 loc:
   Go:
-    code: 1236243
-    comments: 173139
-    blanks: 196473
-    files: 3959
+    code: 1238154
+    comments: 173593
+    blanks: 196663
+    files: 3968
   Json:
-    code: 309286
+    code: 309291
     comments: 0
     blanks: 11
-    files: 2718
+    files: 2719
   Python:
-    code: 42434
+    code: 42481
     comments: 1002
     blanks: 6330
     files: 762
   TypeScript:
-    code: 33556
-    comments: 11426
-    blanks: 7005
+    code: 33561
+    comments: 11462
+    blanks: 7010
     files: 852
   CSharp:
     code: 31306
@@ -135,17 +135,17 @@ loc:
     blanks: 1177
     files: 234
   Php:
-    code: 30328
+    code: 30348
     comments: 10136
     blanks: 8326
     files: 1204
   Elixir:
-    code: 25179
+    code: 25189
     comments: 258
     blanks: 4317
     files: 304
   Rust:
-    code: 23395
+    code: 23421
     comments: 98
     blanks: 961
     files: 63
@@ -170,7 +170,7 @@ loc:
     blanks: 0
     files: 71
   Toml:
-    code: 2924
+    code: 2923
     comments: 1084
     blanks: 692
     files: 142
@@ -300,10 +300,10 @@ loc:
     blanks: 0
     files: 30
 total:
-  code: 1821534
-  comments: 276659
-  blanks: 277483
-  files: 12293
+  code: 1823557
+  comments: 277158
+  blanks: 277678
+  files: 12303
 ---
 date: "2026-10-26"
 repo:
@@ -455,4 +455,4 @@ checks:
       - 'Info:   0 out of   1 npmCommand dependencies pinned'
       - 'Info:   0 out of   1 goCommand dependencies pinned'
 ---
-{"id":420131019,"author":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODUgI1s4ZCrDL","tag_name":"v0.21.11","target_commitish":"main","name":"v0.21.11","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-21T22:34:24Z","updated_at":"2026-10-21T22:50:26Z","published_at":"2026-10-21T22:50:26Z","assets":[{"id":664013766,"node_id":"RA_kwDODUgI1s4nlAvG","name":"checksums.txt","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":707,"digest":"sha256:8ab240f031ef042f7f6218a3835ba4cf8e262d0a4a156291ef0b7db8eda2098b","download_count":1299,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:24Z"},{"id":664013773,"node_id":"RA_kwDODUgI1s4nlAvN","name":"dagger_v0.21.11_darwin_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22651876,"digest":"sha256:eacde97aeb3ee3a0c1c628d374dbb01a2303640f10bb6739e689c10442496bee","download_count":21,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013772,"node_id":"RA_kwDODUgI1s4nlAvM","name":"dagger_v0.21.11_darwin_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":21321476,"digest":"sha256:58490db22e1d975f6e454955e605d0f90564517733528b18d65f4ad7929b6350","download_count":159,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013771,"node_id":"RA_kwDODUgI1s4nlAvL","name":"dagger_v0.21.11_linux_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22230929,"digest":"sha256:a2d3ef96e7305abc18663a3606d9c1c592278ba3c8f48e01d6be14eef72276ef","download_count":6331,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013768,"node_id":"RA_kwDODUgI1s4nlAvI","name":"dagger_v0.21.11_linux_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20411232,"digest":"sha256:7a19fc16ce58d8aa80e273629a38a3cf3e49951df8928b38a908805c9a08cc50","download_count":801,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:26Z"},{"id":664013770,"node_id":"RA_kwDODUgI1s4nlAvK","name":"dagger_v0.21.11_linux_armv7.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20819332,"digest":"sha256:a361041c215c9d8c6061504bf15c97e43fcb23bbf7257b3fde595e7310ca3d5c","download_count":3,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013767,"node_id":"RA_kwDODUgI1s4nlAvH","name":"dagger_v0.21.11_windows_amd64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22772159,"digest":"sha256:7afd2804cbc66463a31d6bddc79e93504e1b467cfc70773a040304e493951ea0","download_count":82,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013769,"node_id":"RA_kwDODUgI1s4nlAvJ","name":"dagger_v0.21.11_windows_arm64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20622184,"digest":"sha256:7fa128034bc1bb24eecac9caeeb400b61e0939d1b9a8aecc295a2e34e73434d7","download_count":16,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"}],"body":"## v0.21.11 - 2026-10-21\n\n### Fixed\n- Fix Go module codegen failing with `import cycle not allowed` in OpenTelemetry packages by @sipsma in https://github.com/dagger/dagger/pull/14646 \\\n  Generated modules now pin `github.com/dagger/otel-go` and `go.opentelemetry.io/otel/sdk`\n  instead of resolving them to their latest versions, which pulled\n  `go.opentelemetry.io/otel` v1.47.0 into a cycle with the pinned `otel/log` v0.16.0.\n- Fix engine memory growth from schema servers retained after their sessions end by @sipsma in https://github.com/dagger/dagger/pull/14756 \\\n  Cached results, types, module resolvers and module dependency schemas no longer keep\n  session schema servers alive, so long-running engines stop accumulating heap until OOM-killed.\n\n### What to do next?\n- Read the [documentation](https://docs.dagger.io)\n- Join our [Discord server](https://discord.gg/dagger-io)\n- Follow us on [Twitter](https://twitter.com/dagger_io)\n\n","mentions_count":1}
+{"id":420131019,"author":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODUgI1s4ZCrDL","tag_name":"v0.21.11","target_commitish":"main","name":"v0.21.11","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-21T22:34:24Z","updated_at":"2026-10-21T22:50:26Z","published_at":"2026-10-21T22:50:26Z","assets":[{"id":664013766,"node_id":"RA_kwDODUgI1s4nlAvG","name":"checksums.txt","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":707,"digest":"sha256:8ab240f031ef042f7f6218a3835ba4cf8e262d0a4a156291ef0b7db8eda2098b","download_count":1570,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:24Z"},{"id":664013773,"node_id":"RA_kwDODUgI1s4nlAvN","name":"dagger_v0.21.11_darwin_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22651876,"digest":"sha256:eacde97aeb3ee3a0c1c628d374dbb01a2303640f10bb6739e689c10442496bee","download_count":25,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013772,"node_id":"RA_kwDODUgI1s4nlAvM","name":"dagger_v0.21.11_darwin_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":21321476,"digest":"sha256:58490db22e1d975f6e454955e605d0f90564517733528b18d65f4ad7929b6350","download_count":193,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013771,"node_id":"RA_kwDODUgI1s4nlAvL","name":"dagger_v0.21.11_linux_amd64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22230929,"digest":"sha256:a2d3ef96e7305abc18663a3606d9c1c592278ba3c8f48e01d6be14eef72276ef","download_count":7830,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013768,"node_id":"RA_kwDODUgI1s4nlAvI","name":"dagger_v0.21.11_linux_arm64.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20411232,"digest":"sha256:7a19fc16ce58d8aa80e273629a38a3cf3e49951df8928b38a908805c9a08cc50","download_count":1021,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:26Z"},{"id":664013770,"node_id":"RA_kwDODUgI1s4nlAvK","name":"dagger_v0.21.11_linux_armv7.tar.gz","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20819332,"digest":"sha256:a361041c215c9d8c6061504bf15c97e43fcb23bbf7257b3fde595e7310ca3d5c","download_count":4,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013767,"node_id":"RA_kwDODUgI1s4nlAvH","name":"dagger_v0.21.11_windows_amd64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":22772159,"digest":"sha256:7afd2804cbc66463a31d6bddc79e93504e1b467cfc70773a040304e493951ea0","download_count":92,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"},{"id":664013769,"node_id":"RA_kwDODUgI1s4nlAvJ","name":"dagger_v0.21.11_windows_arm64.zip","label":"","uploader":{"login":"dagger-ci","id":83475260,"node_id":"MDQ6VXNlcjgzNDc1MjYw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":20622184,"digest":"sha256:7fa128034bc1bb24eecac9caeeb400b61e0939d1b9a8aecc295a2e34e73434d7","download_count":20,"created_at":"2026-10-21T22:50:24Z","updated_at":"2026-10-21T22:50:25Z"}],"body":"## v0.21.11 - 2026-10-21\n\n### Fixed\n- Fix Go module codegen failing with `import cycle not allowed` in OpenTelemetry packages by @sipsma in https://github.com/dagger/dagger/pull/14646 \\\n  Generated modules now pin `github.com/dagger/otel-go` and `go.opentelemetry.io/otel/sdk`\n  instead of resolving them to their latest versions, which pulled\n  `go.opentelemetry.io/otel` v1.47.0 into a cycle with the pinned `otel/log` v0.16.0.\n- Fix engine memory growth from schema servers retained after their sessions end by @sipsma in https://github.com/dagger/dagger/pull/14756 \\\n  Cached results, types, module resolvers and module dependency schemas no longer keep\n  session schema servers alive, so long-running engines stop accumulating heap until OOM-killed.\n\n### What to do next?\n- Read the [documentation](https://docs.dagger.io)\n- Join our [Discord server](https://discord.gg/dagger-io)\n- Follow us on [Twitter](https://twitter.com/dagger_io)\n\n","mentions_count":1}
