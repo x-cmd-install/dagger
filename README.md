@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,562 · **Forks**: 945 · **Open issues**: 3,793 · **Contributors**: 308
+- **Stars**: 16,569 · **Forks**: 946 · **Open issues**: 3,793 · **Contributors**: 308
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 8 | 315 | 93 | 18 | 17 | 909 |
-| last60d | 2026-09-02 | 16 | 598 | 113 | 38 | 40 | 2850 |
-| 90d | 2026-08-03 | 24 | 708 | 113 | 69 | 58 | 3520 |
-| last180d | 2026-05-05 | 100 | 1108 | 116 | 132 | 104 | 4695 |
-| 360d | 2025-11-06 | 100 | 1643 | 116 | 278 | 126 | 5406 |
-| last720d | 2024-11-11 | 100 | 3088 | 116 | 838 | 126 | 6800 |
+| 30d | 2026-10-03 | 8 | 310 | 91 | 18 | 15 | 909 |
+| last60d | 2026-09-03 | 16 | 597 | 113 | 37 | 39 | 2850 |
+| 90d | 2026-08-04 | 24 | 703 | 113 | 69 | 56 | 3520 |
+| last180d | 2026-05-06 | 100 | 1101 | 116 | 132 | 103 | 4695 |
+| 360d | 2025-11-07 | 100 | 1634 | 116 | 278 | 126 | 5406 |
+| last720d | 2024-11-12 | 100 | 3081 | 116 | 834 | 126 | 6796 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dagger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:06:21Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:01:29Z._
