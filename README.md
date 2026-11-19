@@ -14,14 +14,14 @@ x install dagger
 
 ## Code insight
 
-Total: **1,895,694** lines of code across **8658** files in the top 5 languages.
+Total: **1,985,132** lines of code across **9270** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,310,663 | 185,399 | 200,743 | 4285 |
-| Json | 309,508 | 0 | 11 | 2720 |
-| Python | 42,931 | 1,002 | 6,353 | 762 |
-| TypeScript | 33,623 | 11,586 | 7,044 | 852 |
+| Go | 1,399,896 | 195,419 | 208,998 | 5079 |
+| Json | 305,653 | 0 | 11 | 2538 |
+| Python | 42,938 | 1,002 | 6,353 | 762 |
+| TypeScript | 33,624 | 11,590 | 7,045 | 852 |
 | CSharp | 31,306 | 162 | 387 | 39 |
 
 ## OpenSSF Scorecard
@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `sdk/rust/v0.21.11` (2026-10-21)
-- **Last commit**: 2026-11-17
+- **Latest**: `sdk/rust/v0.21.12` (2026-11-17)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 16,623 · **Forks**: 960 · **Open issues**: 3,817 · **Contributors**: 309
+- **Stars**: 16,631 · **Forks**: 961 · **Open issues**: 3,819 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 967 · **Merged PRs**: 7928 · **Open PRs**: 132 · **Closed issues**: 3671 · **Open issues**: 146 · **Commits**: 17112
+- **Releases**: 975 · **Merged PRs**: 7953 · **Open PRs**: 138 · **Closed issues**: 3672 · **Open issues**: 147 · **Commits**: 17387
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 8 | 217 | 102 | 15 | 28 | 1469 |
-| last60d | 2026-09-18 | 16 | 549 | 126 | 30 | 46 | 3155 |
-| 90d | 2026-08-19 | 24 | 723 | 129 | 59 | 75 | 4489 |
-| last180d | 2026-05-21 | 96 | 1122 | 132 | 129 | 117 | 5708 |
-| 360d | 2025-11-22 | 100 | 1655 | 132 | 259 | 146 | 6525 |
-| last720d | 2024-11-27 | 100 | 3082 | 132 | 796 | 146 | 7901 |
+| 30d | 2026-10-20 | 16 | 210 | 110 | 14 | 29 | 1694 |
+| last60d | 2026-09-20 | 24 | 562 | 130 | 30 | 47 | 3431 |
+| 90d | 2026-08-21 | 32 | 740 | 135 | 59 | 75 | 4765 |
+| last180d | 2026-05-23 | 100 | 1142 | 138 | 128 | 118 | 5984 |
+| 360d | 2025-11-24 | 100 | 1670 | 138 | 257 | 147 | 6801 |
+| last720d | 2024-11-29 | 100 | 3103 | 138 | 795 | 147 | 8166 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/dagger/dagger/releases/download/v0.21.11/checksums.txt) | 707 B | `other` |
-| [dagger_v0.21.11_darwin_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_darwin_amd64.tar.gz) | 21.6 MiB | `native/darwin/x64` |
-| [dagger_v0.21.11_darwin_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_darwin_arm64.tar.gz) | 20.3 MiB | `native/darwin/arm64` |
-| [dagger_v0.21.11_linux_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_linux_amd64.tar.gz) | 21.2 MiB | `native/linux/x64` |
-| [dagger_v0.21.11_linux_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_linux_arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
-| [dagger_v0.21.11_linux_armv7.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_linux_armv7.tar.gz) | 19.9 MiB | `native/linux/arm` |
-| [dagger_v0.21.11_windows_amd64.zip](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_windows_amd64.zip) | 21.7 MiB | `native/win/x64` |
-| [dagger_v0.21.11_windows_arm64.zip](https://github.com/dagger/dagger/releases/download/v0.21.11/dagger_v0.21.11_windows_arm64.zip) | 19.7 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/dagger/dagger/releases/download/v0.21.12/checksums.txt) | 707 B | `other` |
+| [dagger_v0.21.12_darwin_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_darwin_amd64.tar.gz) | 21.6 MiB | `native/darwin/x64` |
+| [dagger_v0.21.12_darwin_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_darwin_arm64.tar.gz) | 20.3 MiB | `native/darwin/arm64` |
+| [dagger_v0.21.12_linux_amd64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_linux_amd64.tar.gz) | 21.2 MiB | `native/linux/x64` |
+| [dagger_v0.21.12_linux_arm64.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_linux_arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [dagger_v0.21.12_linux_armv7.tar.gz](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_linux_armv7.tar.gz) | 19.9 MiB | `native/linux/arm` |
+| [dagger_v0.21.12_windows_amd64.zip](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_windows_amd64.zip) | 21.7 MiB | `native/win/x64` |
+| [dagger_v0.21.12_windows_arm64.zip](https://github.com/dagger/dagger/releases/download/v0.21.12/dagger_v0.21.12_windows_arm64.zip) | 19.7 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for dagger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:56:33Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:42:23Z._
