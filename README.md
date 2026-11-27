@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,650 · **Forks**: 965 · **Open issues**: 3,825 · **Contributors**: 310
+- **Stars**: 16,653 · **Forks**: 966 · **Open issues**: 3,825 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 975 · **Merged PRs**: 8010 · **Open PRs**: 145 · **Closed issues**: 3675 · **Open issues**: 150 · **Commits**: 17821
+- **Releases**: 975 · **Merged PRs**: 8014 · **Open PRs**: 148 · **Closed issues**: 3675 · **Open issues**: 150 · **Commits**: 17825
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 8 | 188 | 83 | 9 | 32 | 1479 |
-| last60d | 2026-09-27 | 24 | 556 | 111 | 27 | 46 | 3421 |
-| 90d | 2026-08-28 | 24 | 772 | 131 | 54 | 69 | 5028 |
-| last180d | 2026-05-30 | 88 | 1160 | 138 | 129 | 114 | 6340 |
-| 360d | 2025-12-01 | 100 | 1710 | 140 | 257 | 150 | 7217 |
-| last720d | 2024-12-06 | 100 | 3141 | 145 | 784 | 150 | 8582 |
+| 30d | 2026-10-28 | 8 | 169 | 82 | 6 | 31 | 1485 |
+| last60d | 2026-09-28 | 24 | 549 | 113 | 26 | 45 | 3427 |
+| 90d | 2026-08-29 | 24 | 770 | 134 | 53 | 68 | 5034 |
+| last180d | 2026-05-31 | 72 | 1164 | 141 | 128 | 114 | 6346 |
+| 360d | 2025-12-02 | 100 | 1713 | 143 | 257 | 150 | 7223 |
+| last720d | 2024-12-07 | 100 | 3142 | 148 | 784 | 150 | 8583 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dagger lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:32:33Z._
